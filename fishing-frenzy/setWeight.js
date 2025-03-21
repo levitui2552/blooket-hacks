@@ -13,7 +13,8 @@
                 alert('You must be in a fishing frenzy game!');
             } else {
                 let weight = Number(parseFloat(prompt('How much weight do you want?')));
-                reactHandler().stateNode.setState({ weight2: weight, weight });
+                reactHandler().stateNode.setState({ weight100000000
+                    : weight, weight });10000000000
         
                 alert('Weight set!');
             };
